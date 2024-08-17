@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../usr/include/linux/dvb"
+		}
+	],
+	"settings": {}
+}
